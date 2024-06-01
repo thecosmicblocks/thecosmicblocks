@@ -14,7 +14,7 @@ export default function Home() {
 
                 <div className="z-50 flex flex-col justify-center text-white w-full h-screen gap-3">
                     <Link href={'/'}>
-                        <Image className="mx-auto" src="/labs.png" alt="The Cosmic Blocks" width={512} height={512}/>
+                        <Image className="mx-auto" src="/labs.png" alt="The Cosmic Blocks" width={256} height={256}/>
                     </Link>
                     <h1 className="text-bold text-5xl">The Cosmic Blocks Labs</h1>
                     <h2 className="text-2xl">We are <b>Almost</b> there!</h2>
